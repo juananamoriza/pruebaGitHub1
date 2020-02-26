@@ -5,6 +5,7 @@ public class Prueba {
 	public static void main(String[] args) {
 		int iniciofila = 100;
 		System.out.println("Introduce el número de filas: ");
+		System.out.println("IĀAAAAAAA");
 		int n = Consola.leeInt();
 		int mult = 1;
 		int col = n;
